@@ -1,58 +1,58 @@
-# Complete Web Development
+# Complete Web Development  
 
-## HTML5
+## HTML5  
 
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5  
 
-## CSS 
+## CSS   
 
-https://css-tricks.com
-http://paletton.com
-https://specificity.keegan.st/
-https://daneden.github.io/animate.css/
-http://shouldiprefix.com/
-https://www.cleancss.com/css-minify/
+https://css-tricks.com  
+http://paletton.com  
+https://specificity.keegan.st/  
+https://daneden.github.io/animate.css/  
+http://shouldiprefix.com/  
+https://www.cleancss.com/css-minify/    
 
-### To generate CSS effects
+### To generate CSS effects  
 
-https://codepen.io/
+https://codepen.io/  
 
-## Font
-https://fonts.google.com/
+## Font  
+https://fonts.google.com/  
 
-## Advance CSS
+## Advance CSS  
 
-https://sass-lang.com/guide
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://flexboxfroggy.com/
-https://darekkay.com/dev/flexbox-cheatsheet.html
-https://caniuse.com/
-https://robots.thoughtbot.com/transitions-and-transforms
+https://sass-lang.com/guide  
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
+https://flexboxfroggy.com/  
+https://darekkay.com/dev/flexbox-cheatsheet.html  
+https://caniuse.com/  
+https://robots.thoughtbot.com/transitions-and-transforms  
 
-### To check the browser support.
+### To check the browser support.  
 
-https://www.w3schools.com/cssref/css3_browsersupport.asp
+https://www.w3schools.com/cssref/css3_browsersupport.asp  
 
-### What is CDN
+### What is CDN  
 
-https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/  
 
-## Website Template
+## Website Template  
 
-https://mdbootstrap.com/freebies/
-http://mashup-template.com/templates.html
-https://www.creative-tim.com/bootstrap-themes
-https://startbootstrap.com/template-categories/all/
+https://mdbootstrap.com/freebies/  
+http://mashup-template.com/templates.html  
+https://www.creative-tim.com/bootstrap-themes  
+https://startbootstrap.com/template-categories/all/  
 
-## JavaScript
+## JavaScript  
 
-https://threejs.org/
+https://threejs.org/  
 
-### To check the function compatibility
+### To check the function compatibility  
 
-https://caniuse.com/ 
+https://caniuse.com/   
 
-### DOM
+### DOM  
 
-https://developer.mozilla.org/en-US/docs/Web/Events
-https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+https://developer.mozilla.org/en-US/docs/Web/Events  
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes  
